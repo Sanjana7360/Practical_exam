@@ -103,7 +103,7 @@ class _CartPageState extends State<CartPage> {
 
 
 
-                                      
+
                                       children: [
                                         CircleAvatar(
                                           radius: 40,
