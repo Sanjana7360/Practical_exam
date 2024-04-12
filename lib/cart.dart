@@ -99,6 +99,11 @@ class _CartPageState extends State<CartPage> {
                                     child: Row(
                                       mainAxisAlignment:
                                           MainAxisAlignment.spaceBetween,
+
+
+
+
+                                      
                                       children: [
                                         CircleAvatar(
                                           radius: 40,
